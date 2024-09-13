@@ -7,4 +7,4 @@ RUN \
   --mount=type=cache,target=./node_modules \
   npm install && npm run build
 
-CMD [ "cp", "-r", ".", "/var/www" ]
+CMD [ "cp", "-r", "./build", "/var/www" ]
