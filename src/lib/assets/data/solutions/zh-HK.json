@@ -1,0 +1,32 @@
+[
+  {
+    "name": "EatEase",
+    "description": "使用我們的新增增強桌面管理功能，優化座位安排並改善客人體驗，使您的餐廳運營更加高效。透過這項尖端功能，您可以：動態桌面佈局：輕鬆配置和調整餐廳的桌面佈局，以滿足不斷變化的需求。即時視覺化您的用餐區域，並使用易於操作的拖放介面立即進行調整。即時可用性：即時查看和管理桌位的可用性，以進行高效預訂並最小化等候時間。我們的系統會立即更新以反映變化，避免過度預訂。",
+    "image": {
+      "src": "/pos_dashboard.png",
+      "alt": "placeholder"
+    },
+    "action": {
+      "label": "立即開始",
+      "url": "https://admin.eatease.saasifyease.com"
+    },
+    "sections": [
+      {
+        "name": "Overview",
+        "type": "IMAGE",
+        "content": {
+          "src": "https://cdnsecakmi.kaltura.com/p/1773841/thumbnail/entry_id/1_eoc6czoy/width/736",
+          "alt": "placeholder"
+        }
+      },
+      {
+        "name": "Use case",
+        "type": "TEXT",
+        "content": {
+          "title": "介紹我們的最新功能：增強的桌面管理",
+          "description": "Eatease 是一個食品外送服務，將您最喜愛的餐廳美食送到您家門口。"
+        }
+      }
+    ]
+  }
+]

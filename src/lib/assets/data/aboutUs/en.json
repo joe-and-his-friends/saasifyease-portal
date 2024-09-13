@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Meet Our Team",
+    "sections": [
+      {
+        "name": "John Doe",
+        "image": {
+          "src": "/avatar01.png",
+          "alt": "John Doe"
+        },
+        "description": "Lead Developer with 10+ years of experience in full-stack development."
+      },
+      {
+        "name": "Jane Smith",
+        "image": {
+          "src": "/avatar02.png",
+          "alt": "Jane Smith"
+        },
+        "description": "UI/UX Designer specializing in user-centered design."
+      },
+      {
+        "name": "Alice Johnson",
+        "avatar": "/avatar03.png",
+        "image": {
+          "src": "/avatar03.png",
+          "alt": "Alice Johnson"
+        },
+        "description": "Project Manager ensuring smooth workflows and project success."
+      }
+    ]
+  }
+]

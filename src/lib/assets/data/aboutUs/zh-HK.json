@@ -1,0 +1,31 @@
+[
+  {
+    "title": "認識我們的團隊",
+    "sections": [
+      {
+        "name": "約翰·杜",
+        "image": {
+          "src": "/avatar01.png",
+          "alt": "約翰·杜"
+        },
+        "description": "擁有10年以上全端開發經驗的首席開發員。"
+      },
+      {
+        "name": "珍·史密斯",
+        "image": {
+          "src": "/avatar02.png",
+          "alt": "珍·史密斯"
+        },
+        "description": "專注於用戶中心設計的UI/UX設計師。"
+      },
+      {
+        "name": "愛麗絲·約翰遜",
+        "image": {
+          "src": "/avatar03.png",
+          "alt": "愛麗絲·約翰遜"
+        },
+        "description": "確保工作流程順暢和項目成功的項目經理。"
+      }
+    ]
+  }
+]

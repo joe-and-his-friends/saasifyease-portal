@@ -1,0 +1,48 @@
+[
+  {
+    "name": "EatEase",
+    "description": "Streamline your restaurant's operations with our new Enhanced Table Management feature, designed to optimize seating arrangements and improve guest experience. With this cutting-edge addition, you can: Dynamic Table Layouts: Easily configure and adjust your restaurant's table layout to match changing needs. Visualize your dining area in real-time and make immediate adjustments with a user-friendly drag-and-drop interface. Real-Time Availability: View and manage table availability in real-time, allowing for efficient booking and minimizing wait times. Our system updates instantly to reflect changes and avoid overbooking.",
+    "image": {
+      "src": "/pos_dashboard.png",
+      "alt": "placeholder"
+    },
+    "action": {
+      "label": "Get Started",
+      "url": "https://admin.eatease.saasifyease.com"
+    },
+    "sections": [
+      {
+        "name": "Overview",
+        "type": "IMAGE",
+        "content": {
+          "src": "https://cdnsecakmi.kaltura.com/p/1773841/thumbnail/entry_id/1_eoc6czoy/width/736",
+          "alt": "placeholder"
+        }
+      },
+      {
+        "name": "Benefits",
+        "type": "TEXT",
+        "content": {
+          "title": "Introducing Our Latest Feature: Enhanced Table Management",
+          "description": "Eatease is a food delivery service that brings your favorite restaurant meals right to your doorstep."
+        }
+      },
+      {
+        "name": "Case study",
+        "type": "TEXT",
+        "content": {
+          "title": "Introducing Our Latest Feature: Enhanced Table Management",
+          "description": "Eatease is a food delivery service that brings your favorite restaurant meals right to your doorstep."
+        }
+      },
+      {
+        "name": "Pricing",
+        "type": "TEXT",
+        "content": {
+          "title": "Introducing Our Latest Feature: Enhanced Table Management",
+          "description": "Eatease is a food delivery service that brings your favorite restaurant meals right to your doorstep."
+        }
+      }
+    ]
+  }
+]
